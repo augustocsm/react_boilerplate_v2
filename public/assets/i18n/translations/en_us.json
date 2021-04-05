@@ -1,0 +1,24 @@
+{
+  "en": "en-us",
+  "language": {
+    "selectLanguage": "Selecione o Idioma"
+  },
+
+  "btn": {
+    "save": "Save",
+    "confirm": "Confirm",
+    "yes": "Yes",
+    "no": "No",
+    "cancel": "Cancel",
+    "yesDelete": "Yes Delete"
+  },
+
+  "auth": {
+    "isSignedIn": "Signed In",
+    "isSignedOut": "Signed Out",
+    "signIn": "Sign In",
+    "signOut": "Sign Out"
+  },
+
+  "apps": {}
+}

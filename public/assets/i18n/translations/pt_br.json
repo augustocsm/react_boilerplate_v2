@@ -1,0 +1,25 @@
+{
+  "ptbr": "pt-br",
+  "language": {
+    "selectLanguage": "Selecione o Idioma"
+  },
+
+
+  "btn": {
+    "save": "Salvar",
+    "confirm": "Confirmar",
+    "yes": "Sim",
+    "no": "Não",
+    "cancel": "Cancelar",
+    "yesDelete": "Sim Excluir"
+  },
+
+  "auth": {
+    "isSignedIn": "Conectado",
+    "isSignedOut": "Desconectado",
+    "signIn": "Fazer Login",
+    "signOut": "Sair"
+  },
+
+  "apps": {}
+}
